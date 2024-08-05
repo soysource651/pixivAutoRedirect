@@ -2,4 +2,4 @@ pixivのプロフィールページにある連携外部サービスへのリン
   
 動作確認  
 Firefox Developer Edition 129.0b9  
-TamperMonkey 5.1.1
+Tampermonkey 5.1.1
