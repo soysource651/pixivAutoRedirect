@@ -5,6 +5,9 @@ Firefox Developer Edition 129.0b9
 Tampermonkey 5.1.1
 
 変更履歴
+
 1.0.0 リリース
+
 1.0.1 クッションページのURLからジャンプ先のリンクを取得するように内部処理を変更
+
 1.1.0 nijieに対応
