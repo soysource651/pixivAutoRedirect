@@ -1,7 +1,7 @@
 pixiv.netとnijie.infoのプロフィールページなどにある、外部リンクを踏むと挟まれるクッションページを自動的にスキップするユーザースクリプト。  
 
 ### 動作確認  
-Firefox Developer Edition 136.0b4 
+Firefox Developer Edition 136.0b4  
 Tampermonkey 5.3.3  
 
 ### 変更履歴  
