@@ -16,7 +16,7 @@
    var URL = window.location.href;
 
    if ( URL.indexOf('https://www.pixiv.net/jump.php')===0) {
-       const Link = unescape (window.location.href.substr(window.location.href.indexOf('=')+1));
+       const Link = document.querySelector('div').querySelector('a').getAttribute('href');
        window.location.href = Link;
    }
    else if (URL.indexOf('https://nijie.info/jump.php')===0) {
